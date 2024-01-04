@@ -140,4 +140,4 @@ class LoginWithTwitter {
   }
 }
 
-module.exports = LoginWithTwitter
+export default LoginWithTwitter
